@@ -1,3 +1,1 @@
-export default function Home() {
-  return <h1>Hi，我是 Mason，歡迎來到我的網站 ✨</h1>;
-}
+export default function Home() { return <h1>Hello, Mason site with lucide-react ✨</h1>; }
