@@ -1,0 +1,1 @@
+This is the styles folder for global CSS or tailwind imports.
